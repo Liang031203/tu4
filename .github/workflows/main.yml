@@ -15,5 +15,5 @@ jobs:
         java-version: '21'
     - name: Run tests
       run: |
-        cd "D:/t4/tutorial4-main"
+        cd "D:/t4/tutorial4-main/pom.xml"
         mvn clean test
